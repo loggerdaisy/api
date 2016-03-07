@@ -1,4 +1,4 @@
-# LoggerDaisy Sensors REST API
+# LoggerDaisy Sensors PING API
 
 **Sending sensor data to LoggerDaisy cloud**
 
